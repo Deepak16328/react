@@ -8,4 +8,4 @@ app.use(cors());
   user:"root",
   password:"",
   database:"signup"
- })
+ })gg
